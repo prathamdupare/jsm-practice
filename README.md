@@ -1,3 +1,3 @@
-this is a test.test
+This repo contains projects focused on Next.js, ShadCN UI and Tailwind.
 
-test2
+- For practicing automating UI development.
