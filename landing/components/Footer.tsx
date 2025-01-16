@@ -1,6 +1,4 @@
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import { Separator } from "@/components/ui/separator";
 import { Facebook, Twitter, Instagram, Github, Linkedin } from "lucide-react";
 
@@ -120,7 +118,7 @@ export function FooterSection() {
         <Separator className="my-8" />
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-sm text-muted-foreground">
-            © 2025 FoCDoT  All rights reserved.
+            © 2025 FoCDoT All rights reserved.
           </p>
           <div className="flex space-x-4">
             <Link
