@@ -79,7 +79,7 @@ export const Navbar = () => {
         />
         {/* Dark mode logo */}
         <Image
-          src="/logo.png"
+          src="/logo.svg"
           width={60}
           height={60}
           alt="logo"
